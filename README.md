@@ -1,6 +1,6 @@
 # 🚀 Machine Learning with TensorFlow  
 
-Welcome to my **Machine Learning Repository**, where I explore key concepts in **Supervised and Unsupervised Learning** using **TensorFlow and Python**. This repository contains **Google Colab notebooks, datasets, and implementations** of ML algorithms.  
+Welcome to my **Machine Learning Repository**, where I explored key concepts in **Supervised and Unsupervised Learning** using **TensorFlow and Python**. This repository contains **Google Colab notebooks, datasets, and implementations** of ML algorithms.  
 
 ## 📌 Course Overview  
 This project is based on my learning journey through the Machine Learning, covering essential topics such as **classification, regression, clustering, and deep learning** with **TensorFlow**.  
