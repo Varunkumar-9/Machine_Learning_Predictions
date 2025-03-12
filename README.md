@@ -57,5 +57,5 @@ This project is based on my learning journey through the Machine Learning, cover
 ##🎯 Future Work
 🔹 Implementing Deep Learning Architectures for NLP & Computer Vision
 🔹 Experimenting with Transformer Models & LLMs
-🔹 Extending Reinforcement Learning & Advanced ML Concepts
+🔹 Extending Reinforcement Learning & Advanced Machine Learning Concepts
 
