@@ -24,7 +24,7 @@ This project is based on my learning journey through the Machine Learning, cover
 ✅ **Naïve Bayes** – Probabilistic classification for text & categorical data  
 ✅ **Logistic Regression** – Binary classification using sigmoid function  
 ✅ **Support Vector Machine (SVM)** – Optimal hyperplane-based classification  
-✅ **Neural Networks (ANNs)** – Deep learning models for classification  
+✅ **Neural Networks (ANNs)** – Deep learning models for classification   
 
 ### 🔹 Regression  
 ✅ **Linear Regression** – Predicting continuous values  
@@ -54,7 +54,7 @@ This project is based on my learning journey through the Machine Learning, cover
 1️⃣ Open the notebooks in Google Colab or Jupyter Notebook.
 2️⃣ Run the cells to execute the models and analyze the results.
 
-##🎯 Future Work
+##🎯 Future Works
 🔹 Implementing Deep Learning Architectures for NLP & Computer Vision
 🔹 Experimenting with Transformer Models & LLMs
 🔹 Extending Reinforcement Learning & Advanced Machine Learning Concepts
